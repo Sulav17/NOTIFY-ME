@@ -163,7 +163,7 @@
 
  ## 🤝 Contributing
 
- Contributions are welcome! Please fork the repository at [github.com/Sulav17/notifyme](https://github.com/Sulav17/notifyme), make your changes, and open a pull request. If you encounter bugs or have feature requests, create an issue via the [issue tracker](https://github.com/Sulav17/notifyme/issues).
+ Contributions are welcome! Please fork the repository at [github.com/Sulav17/NOTIFY-ME](https://github.com/Sulav17/NOTIFY-ME), make your changes, and open a pull request. If you encounter bugs or have feature requests, create an issue via the [issue tracker](https://github.com/Sulav17/NOTIFY-ME/issues).
 
  ## 🔔 Usage Notifications
 
