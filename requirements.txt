@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+redis
+aio-pika
+python-dotenv
+python-json-logger
+loguru
+elasticsearch
+pytest
+httpx
+ pydantic-settings
+cryptography
